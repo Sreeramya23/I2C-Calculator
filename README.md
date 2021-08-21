@@ -1,7 +1,5 @@
 # I2C Calculator
 
-[TOC]
-
 ## Purpose
 - **Tkinter GUI to calculate standard pull-up resistances for I2C protocol.**
 
